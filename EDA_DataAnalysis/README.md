@@ -1,9 +1,10 @@
-**Exploratory Data Analysis (EDA) on Car Dataset**
-*** Project Overview ***
+# Exploratory Data Analysis (EDA) on Car Dataset
+
+## Project Overview
 
 This project performs an Exploratory Data Analysis (EDA) on a dataset of car listings. The analysis aims to uncover patterns, trends, and insights related to car prices, brands, mileage, age, fuel type, and ownership. The dataset has been preprocessed and transformed for analysis.
 
-*Dataset*
+**Dataset**
 - Source: Final_car_data.csv (transformed and cleaned)
 - Columns include:
   - Price_EUR – Price of the car in Euros
@@ -14,13 +15,13 @@ This project performs an Exploratory Data Analysis (EDA) on a dataset of car lis
   - Mileage_L/100km – Fuel efficiency
   - Owner_Type – Type of owner (e.g., First, Other)
 
-*Libraries Used*
+**Libraries Used**
 - pandas – Data manipulation and analysis
 - numpy – Numerical computations
 - matplotlib – Visualization
 - seaborn – Statistical data visualization
 
-*Analysis Steps & Insights*
+**Analysis Steps & Insights**
 1. Distribution of Car Prices
 Histogram shows how car prices are distributed across the dataset.
 Helps identify typical price ranges and outliers.
@@ -57,7 +58,7 @@ Bar chart highlights differences in pricing based on ownership history.
 A bar plot shows the mean (average) price of cars, grouped by their manufacturing year.
 This plot helps identify trends in car pricing over the years, such as whether older cars are significantly cheaper and how prices have changed over time.
 
-*Conclusion*
+**Conclusion**
 - This EDA provides a comprehensive understanding of the car dataset:
 - Pricing trends across brands and ownership types
 - Market preferences for fuel type and mileage

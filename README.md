@@ -8,12 +8,12 @@ The goal is to extract raw data, analyze trends in car prices, mileage, age, fue
 
 The raw dataset was obtained from Kaggle, containing information about cars including model specifications, prices, and other attributes.
 
-*Details:*
+**Details:**
 - Platform: Kaggle
 - File type: CSV (train_data)
 - Purpose: Serve as input for the ETL pipeline
 
-*Extraction Process:*
+**Extraction Process:**
 1. The dataset was downloaded manually from Kaggle.
 2. Using pandas, the CSV was loaded into a DataFrame in Python.
 3. Initial inspection confirmed the structure, column names, and potential quality issues.
