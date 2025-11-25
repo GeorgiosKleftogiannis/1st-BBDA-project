@@ -1,4 +1,4 @@
-📥 1. Extract – Retrieving the Raw Data
+# 📥 1. Extract – Retrieving the Raw Data
 
 The first step of our ETL pipeline focuses on extracting the raw dataset from its source.
 For this project, our team selected a publicly available dataset from Kaggle, which we downloaded locally and loaded into our Python environment for further processing. This dataset was used to train a deep learning model designed to predict car prices based on various vehicle characteristics.
